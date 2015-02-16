@@ -1,6 +1,6 @@
 First Header | Second Header
 ------------ | -------------
-<ul><li>[[Content from cell 1|LinkTest2]]</li><li>[[Content2]]</li></ul> | <ul><li>[[Content from cell 2]]</li></ul>
+<ul><li>[[Content from cell 1|LinkTest2]]</li> <li>[[Content2]]</li></ul> | <ul><li>[[Content from cell 2]]</li></ul>
 <ul><li>Content in the first column</li></ul> | <ul><li>Content in the second column</li></ul>
 
 <table>
