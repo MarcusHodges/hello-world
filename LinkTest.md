@@ -1,3 +1,3 @@
-Test|Test|Test|
---|--|--|
-A|B|C|
+Test | Test | Test
+-- | -- | --
+A | B | C
