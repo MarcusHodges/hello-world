@@ -1,7 +1,7 @@
 First Header | Second Header
 ------------ | -------------
-<li>[[Content from cell 1]](www.google.com)</li><li>[[Content2]]</li> | <li>[[Content from cell 2]]</li>
-<li>Content in the first column</li> | <li>Content in the second column</li>
+<ul><li>[[Content from cell 1]](www.google.com)</li><li>[[Content2]]</li></ul> | <ul><li>[[Content from cell 2]]</li></ul>
+<ul><li>Content in the first column</li></ul> | <ul><li>Content in the second column</li></ul>
 
 <table>
   <tr>
